@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 * _puts_recursion - print a string
 * @s:string
@@ -15,4 +14,5 @@ _puts_recursion(s + 1);
 else
 {
 _putchar('\n');
+}
 }
